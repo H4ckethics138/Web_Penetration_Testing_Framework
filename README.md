@@ -11,8 +11,8 @@
 
 <p align="center">
   <!-- Animated SVG Banner / Logo -->
-  <a href="https://github.com/Hackethics138/webpwn">
-    <img src="https://raw.githubusercontent.com/Hackethics138/webpwn/main/assets/banner.svg?raw=true" alt="WebPWN Banner" width="850">
+  <a href="https://github.com/Hackethics138/Web_Penetration_Testing_Framework">
+    <img src="https://github.com/H4ckethics138/Web_Penetration_Testing_Framework/blob/main/Screenshot%20From%202026-07-13%2019-02-46.png" alt="Web_Penetration_Testing_Framework" width="850">
   </a>
 </p>
 
