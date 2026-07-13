@@ -74,6 +74,7 @@
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/Hackethics138/webpwn.git
-cd webpwn
+git clone https://github.com/H4ckethics138/Web_Penetration_Testing_Framework.git
+cd Web_Penetration_Testing_Framework
+python3 main.py
   
