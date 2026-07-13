@@ -41,7 +41,7 @@
 
 ## 📖 Overview
 
-**WebPWN** is an **all-in-one Web Penetration Testing Framework** developed by **Team Hackethics138**. It brings together **40+ powerful security tools** into a single, intuitive interface with **auto‑installation**, **real‑time output**, and **interactive prompts**. Whether you're a seasoned penetration tester or a beginner, WebPWN simplifies the process of discovering and exploiting web vulnerabilities.
+**Web_Penetration_Testing_Framework** is an **all-in-one Web Penetration Testing Framework** developed by **Team Hackethics138**. It brings together **40+ powerful security tools** into a single, intuitive interface with **auto‑installation**, **real‑time output**, and **interactive prompts**. Whether you're a seasoned penetration tester or a beginner, WebPWN simplifies the process of discovering and exploiting web vulnerabilities.
 
 > **⚡ Note:** This tool is intended for **authorized security testing only**. Unauthorised use is illegal and unethical.
 
